@@ -1,0 +1,61 @@
+{
+    "rates": [
+        {
+            "bank": "VIETCOM",
+            "brand": "",
+            "updated": 1579484760000,
+            "date": "20200120",
+            "version": "1",
+            "value": [
+                {
+                    "buy": "2200",
+                    "order": "0",
+                    "name": "DOLLAR",
+                    "sell": "2200",
+                    "transfer": "0.00",
+                    "id": "26772129",
+                    "day": "20200120",
+                    "code": "ETH"
+                },
+                {
+                    "buy": "65000",
+                    "order": "0",
+                    "name": "DOLLAR",
+                    "sell": "65000",
+                    "transfer": "0.00",
+                    "id": "26772129",
+                    "day": "20200120",
+                    "code": "BTC"
+                },
+                {
+                    "buy": "0.1",
+                    "order": "0",
+                    "name": "DOLLAR",
+                    "sell": "0.1",
+                    "transfer": "0.00",
+                    "id": "26772129",
+                    "day": "20200120",
+                    "code": "TRX"
+                },
+                {
+                    "buy": "1",
+                    "order": "0",
+                    "name": "ZALO",
+                    "sell": "25000000",
+                    "transfer": "0.00",
+                    "id": "26772129",
+                    "day": "20200120",
+                    "code": "DOLLAR"
+                }
+            ],
+            "order": "0"
+        }
+    ],
+    "golds": [],
+    "time": 4,
+    "excute1_time": 4,
+    "excute2_time": 0,
+    "excute3_time": 0,
+    "count1": 18,
+    "count2": 0
+}
